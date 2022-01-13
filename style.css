@@ -1,9 +1,22 @@
 .ms_bg_black {
     background-color: black;
+    height: 40px;
 }
 
-.ms_bg_white {
-    background-color: white;
-    height: 50px;
+.ms_bg_navabar {
+    margin-top: 40px;
 }
 
+.ms_bg_jumbo {
+    margin-top: 120px;
+    background: url("img/jumbo-bg.png");
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.ms_h_img {
+    width: 90px;
+}
+ 
