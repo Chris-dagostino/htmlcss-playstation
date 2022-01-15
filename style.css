@@ -1,6 +1,10 @@
-.ms_bg_black {
+.ms_bg_black_h40 {
     background-color: black;
     height: 40px;
+}
+
+.ms_bg_darkgrey {
+    background-color: #1f1f1f;
 }
 
 .ms_bg_blue {
